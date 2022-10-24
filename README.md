@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--Pfg39W4P--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/4501yfcx04h5jkb33cjl.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://png.pngitem.com/pimgs/s/127-1272138_best-web-app-development-company-in-uk-india.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Himanshu Parmar</h1>
 <h3 align="center">Trying to Exploring Things</h3>
